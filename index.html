@@ -6,7 +6,8 @@ banner: banner.jpg
 					<section id="banner">
 						<div class="inner">
 							<h2>{{ site.title }}</h2>
-							<p>{{ site.description | markdownify }}</p>
+							<p>{{ site.subtitle | markdownify }}</p>
+							<p>{{ site.owner | markdownify}}</p>
 						</div>
 						<a href="#one" class="more scrolly">Continue</a>
 					</section>
@@ -15,9 +16,8 @@ banner: banner.jpg
 					<section id="one" class="wrapper style1 special">
 						<div class="inner">
 							<header class="major">
-								<h2>The Amplitude</h2>
-								<p>Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend<br />
-								fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.</p>
+								<h2>{{ site.title }}</h2>
+								<p>{{ site.description}}</p>
 							</header>
 						</div>
 						<div class="videoWrapper">
@@ -71,14 +71,10 @@ banner: banner.jpg
 							<header>
 								<h2>Contact</h2>
 								<p>
-									c/o Dance 4<br>
-									Space 2<br>
-									2 Dakeyne street<br>
-									Nottingham<br>
-									NG3 2AR<br>
-									+44 (0) 115 924 2016<br>
-									<br>
-									Production Contact: <a href="mailto:jim@dance4.co.uk">Jim Hendley</a>
+									{{ site.production_institution | markdownify }}
+								</p>
+								<p>
+									Production Contact: <a href="mailto:{{site.producer_email}}">{{ site.producer }}</a>
 								</p>
 
 							</header>

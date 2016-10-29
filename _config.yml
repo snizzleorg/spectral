@@ -3,16 +3,27 @@
 
 # Site settings
 title: The Amplitude
+subtitle: A Sound and Movement Performance
+owner: Gabriele Reuter and Mattef Kuhlmey
 description: |
-  A Sound and Movement Performance
-
-  Gabriele Reuter and Mattef Kuhlmey
+  Blah Blah Blah
+  Blalalla
+  Blablub
 banner: banner.jpg
-owner: Gabriele Reuter # or company name
+production_institution: |
+  c/o Dance 4  
+  Space 2  
+  2 Dakeyne Street  
+  Nottingham  
+  NG3 2AR  
+
+  +44 (0) 115 924 2016
+producer: Jim Hendley
+producer_email: jim@dance4.co.uk
 first_published: 2016 # if migrating another site, the year of your first publish
 email: post@gabrielereuter.de
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://theamplitude.uk" # the base hostname & protocol for your site
 
 social:
   twitter: https://twitter.com/@reuterbraut
@@ -32,7 +43,7 @@ social:
   #delicious:
   #pied-piper:
   #digg:
-  soundcloud: https://soundcloud.com
+  soundcloud: https://soundcloud.com/mattef
   #deviantart:
   #angellist:
   #tumblr-square:
