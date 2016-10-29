@@ -8,9 +8,17 @@
         <div id="menu">
           <ul>
             <li><a href="index.html">Home</a></li>
+
             {% assign p = site.pages | sort:"weight"  %}
             {% for my_page in p %}
-            {% if my_page.title %}
+            {% if my_page.section == 2 %}
+            <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
+            {% endif %}
+            {% endfor %}
+            
+            {% assign p = site.pages | sort:"weight"  %}
+            {% for my_page in p %}
+            {% if my_page.section == 3 %}
             <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
             {% endif %}
             {% endfor %}
