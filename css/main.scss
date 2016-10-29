@@ -983,14 +983,12 @@ $banner: '{{ page.banner }}';
 			width: 60%;
 		}
 
-		&:nth-child(2n) {
-			@include vendor('flex-direction', 'row-reverse');
-		}
 
-		@for $i from 1 through _misc(max-spotlights) {
+
+		@for $i from 0 through _misc(max-spotlights) {
 			$j: 0.075 * $i;
 
-			&:nth-child(#{$i}) {
+			&:nth-child(#{$i+1}) {
 				background-color: rgba(0,0,0, $j);
 			}
 		}
@@ -1245,7 +1243,7 @@ $banner: '{{ page.banner }}';
 		}
 
 		&.style2 {
-			background-color: _palette(bg);
+			background-color: _palette(accent3, bg);
 		}
 
 		&.style3 {

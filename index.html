@@ -8,7 +8,7 @@ banner: banner.jpg
 							<h2>{{ site.title }}</h2>
 							<p>{{ site.description | markdownify }}</p>
 						</div>
-						<a href="#one" class="more scrolly">Learn More</a>
+						<a href="#one" class="more scrolly">Continue</a>
 					</section>
 
 				<!-- One -->
@@ -24,45 +24,72 @@ banner: banner.jpg
 					</section>
 
 				<!-- Two -->
-					<section id="two" class="wrapper alt style2">
-						<a href="performance.html"><section class="spotlight">
-							<div class="image"><img src="images/pic01.jpg" alt="" /></div><div class="content">
-								<h2>The Amplitude: Performance</h2>
+				<section id="two" class="wrapper alt style2">
+				{% assign p = site.pages | sort:"weight"  %}
+				{% for my_page in p %}
+				{% if my_page.section == 2 %}
+				<section class="spotlight">
+					<div class="image"><a href={{ my_page.url }}><img src=images/{{ my_page.image }} alt="" /></a></div><div class="content">
+						<a href={{ my_page.url }}>
+							<h2>{{ my_page.title }}</h2>
+						<p>{{ my_page.excerpt }}</p>
+					</a>
+					</div>
+				</section>
+				{% endif %}
+				{% endfor %}
+				<!--
+
+						<section class="spotlight">
+							<div class="image"><a href="performance.html"><img src="images/pic01.jpg" alt="" /></a></div><div class="content">
+								<a href="performance.html">
+									<h2>The Amplitude: Performance</h2>
 								<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
+							</a>
 							</div>
-						</section></a>
-						<a href="about.html"><section class="spotlight">
-							<div class="image"><img src="images/pic02.jpg" alt="" /></div><div class="content">
-								<h2>Gabriele Reuter & Mattef Kuhlmey</h2>
-								<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
+						</section>
+						<section class="spotlight">
+							<div class="image"><a href="about.html"><img src="images/pic02.jpg" alt="" /></a></div><div class="content">
+								<a href="about.html">
+								  <h2>Gabriele Reuter & Mattef Kuhlmey</h2>
+								  <p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
+							  </a>
 							</div>
 						</section></a>
 						<section class="spotlight">
 							<div class="image"><a href="technical.html"><img src="images/pic03.jpg" alt="" /></a></div><div class="content">
-								<h2>Technical Information</h2>
-								<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
+								<a href="technical.html">
+									<h2>Technical Information</h2>
+									<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
+								</a>
 							</div>
 						</section>
 						<section class="spotlight">
 							<div class="image"><a href="audience.html"><img src="images/pic02.jpg" alt="" /></a></div><div class="content">
-								<h2>Audience Experience</h2>
-								<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
+								<a href="audience.html">
+									<h2>Audience Experience</h2>
+									<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
+								</a>
 							</div>
 						</section>
 						<section class="spotlight">
 							<div class="image"><a href="workshops.html"><img src="images/pic03.jpg" alt="" /></a></div><div class="content">
-								<h2>Workshops & Lecture</h2>
-								<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
+								<a href="workshops.html">
+									<h2>Workshops & Lecture</h2>
+									<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
+								</a>
 							</div>
 						</section>
 						<section class="spotlight">
 							<div class="image"><a href="press.html"><img src="images/pic02.jpg" alt="" /></a></div><div class="content">
-								<h2>Press Quotes & Audience Responses</h2>
-								<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
+								<a href="press.html">
+									<h2>Press Quotes & Audience Responses</h2>
+									<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
+								</a>
 							</div>
 						</section>
 					</section>
-
+				-->
 				<!-- Three -->
 					<section id="three" class="wrapper style3 special">
 						<div class="inner">
@@ -72,28 +99,20 @@ banner: banner.jpg
 								fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.</p>
 							</header>
 							<ul class="features">
-								<li class="icon fa-paper-plane-o">
-									<h3>Contact</h3>
-									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
-								</li>
-								<li class="icon fa-laptop">
-									<h3>Fees</h3>
-									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
-								</li>
-								<li class="icon fa-code">
+								<li class="icon fa-users">
 									<h3>Credits</h3>
 									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
 								</li>
-								<li class="icon fa-headphones">
+								<li class="icon fa-life-ring">
 									<h3>Production Support</h3>
 									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
 								</li>
-								<li class="icon fa-heart-o">
-									<h3>Aenean Primis</h3>
+								<li class="icon fa-gbp">
+									<h3>Fees</h3>
 									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
 								</li>
-								<li class="icon fa-flag-o">
-									<h3>Tortor Ut</h3>
+								<li class="icon fa-heart-o">
+									<h3>Marketing</h3>
 									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
 								</li>
 							</ul>
@@ -105,10 +124,23 @@ banner: banner.jpg
 						<div class="inner">
 							<header>
 								<h2>Contact</h2>
-								<p>Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla.</p>
+								<p>
+									c/o Dance 4<br>
+									Space 2<br>
+									2 Dakeyne street<br>
+									Nottingham<br>
+									NG3 2AR<br>
+									+44 (0) 115 924 2016<br>
+									<br>
+									Production Contact: <a href="mailto:jim@dance4.co.uk">Jim Hendley</a>
+								</p>
+
 							</header>
 							<ul class="actions vertical">
-								<li><a href="mailto:post@gabrielereuter.de" class="button fit">email</a></li>
+								<li>
+								<h2><br><br><a href="http://www.gabrielereuter.de">gabrielereuter.de</a><br>
+								<a href="http://mattef.com">mattef.com</a></h2>
+								</li>
 							</ul>
 						</div>
 					</section>
