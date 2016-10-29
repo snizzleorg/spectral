@@ -3,7 +3,6 @@
 ---
 
 $baseurl: '{{ site.baseurl }}/images';
-$banner: '{{ page.banner }}';
 
 @import 'libs/vars';
 @import 'libs/functions';
