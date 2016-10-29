@@ -10,7 +10,7 @@ description: |
   Blalalla
   Blablub
 banner: banner.jpg
-production_institution: |
+producer_institution: |
   c/o Dance 4  
   Space 2  
   2 Dakeyne Street  
@@ -18,7 +18,7 @@ production_institution: |
   NG3 2AR  
 
   +44 (0) 115 924 2016
-producer: Jim Hendley
+producer_contact: Jim Hendley
 producer_email: jim@dance4.co.uk
 first_published: 2016 # if migrating another site, the year of your first publish
 email: post@gabrielereuter.de
