@@ -2,25 +2,23 @@
 layout: page
 section: 2
 title: Workshop and Lecture
-description: Description
-excerpt: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+description:
+excerpt: Alongside the touring of The Amplitude, Gabriele and Mattef offer a range of workshop formats as well as a lecture that draw upon the creation process of the piece as well as their skills as educators. The right mix of educational activity can be created around each performance.
 image: lecture.jpg
 weight: 5
 ---
-## Lecture
+Alongside the touring of The Amplitude, Gabriele and Mattef offer a range of workshop formats as well as a lecture that draw upon the creation process of the piece as well as their skills as educators. The right mix of educational activity can be created around each performance.
+
+## The Amplitude: Workshops
 
 <img style="float: left; margin-left: 0px; margin-right: 20px; margin-bottom: 0px;" width="400px" src="../images/lecture1.jpg">
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.   
+Workshops can be tailored to suit all levels of experience, ages and interests. As part of a tour throughout the East Midlands in autumn 2016 they have taught lectures on the topic of acoustic waves in secondary schools, collaboration workshops between dance and music technology students in Higher Education, developed interactive sound installations for two Special Needs Schools and tailored performance projects in other educational contexts. All this, as well as technique class in contemporary dance, improvisation or Contact Improvisation are options to accompany touring activities. Please get in touch to discuss options in more detail.
 
+## Lecture
 
+<img style="float: right; margin-left: 0px; margin-right: 20px; margin-bottom: 0px;" width="400px" src="../images/lecture2.jpg">Part of the educational activity around The Amplitude is a lecture performance held by Gabriele Reuter, which is developed to be performed in spaces with a simple technical set up: classrooms, common halls, lecture rooms, gallery spaces etc.  
+Part sound technology lecture, part dance performance, this lecture about sound and space investigates the omnipresence of physics in our everyday life. Scientific knowledge, practical demonstrations, individual and collective experiments and expert interviews will help to understand how acoustic waves work, how they shape and reshape the empty space around us. With the help of several tailor-made animated short films about acoustic waves, slapstick and pirate radios, Gabriele Reuter will unpack and investigate these complicated questions together with the audience – looking for simple answers to complicated questions.
 
-<img style="float: right; margin-left: 0px; margin-right: 20px; margin-bottom: 0px;" width="400px" src="../images/lecture2.jpg">
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.   
-
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.   
-
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.   
-
-Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.   
-
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis.   
+**Performed by** Gabriele Reuter  
+**Length:** approx 1 hour  
+**Ages:** 12+

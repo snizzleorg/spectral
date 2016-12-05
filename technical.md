@@ -1,16 +1,50 @@
 ---
 layout: page
 section: 2
-title: Technical Information
-description: Description
-excerpt: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+title: Technical Requirements
+description:
+excerpt: Mattef Kuhlmey is not only the musician on stage during the performance, but also a highly competent sound technician, with over twenty years of experience in creating, performing and worldwide touring in theatres and venues for dance, theatre and music.
 image: technical.jpg
 weight: 3
 ---
-	<h3>Lorem ipsum dolor</h3>
-	<p>Morbi mattis mi consectetur tortor elementum, varius pellentesque velit convallis. Aenean tincidunt lectus auctor mauris maximus, ac scelerisque ipsum tempor. Duis vulputate ex et ex tincidunt, quis lacinia velit aliquet. Duis non efficitur nisi, id malesuada justo. Maecenas sagittis felis ac sagittis semper. Curabitur purus leo, tempus sed finibus eget, fringilla quis risus. Maecenas et lorem quis sem varius sagittis et a est. Maecenas iaculis iaculis sem. Donec vel dolor at arcu tincidunt bibendum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce ut aliquet justo. Donec id neque ipsum. Integer eget ultricies odio. Nam vel ex a orci fringilla tincidunt. Aliquam eleifend ligula non velit accumsan cursus. Etiam ut gravida sapien.</p>
-	<p>Vestibulum ultrices risus velit, sit amet blandit massa auctor sit amet. Sed eu lectus sem. Phasellus in odio at ipsum porttitor mollis id vel diam. Praesent sit amet posuere risus, eu faucibus lectus. Vivamus ex ligula, tempus pulvinar ipsum in, auctor porta quam. Proin nec dui cursus, posuere dui eget interdum. Fusce lectus magna, sagittis at facilisis vitae, pellentesque at etiam. Quisque posuere leo quis sem commodo, vel scelerisque nisi scelerisque. Suspendisse id quam vel tortor tincidunt suscipit. Nullam auctor orci eu dolor consectetur, interdum ullamcorper ante tincidunt. Mauris felis nec felis elementum varius.</p>
-	<hr />
-	<h4>Feugiat aliquam</h4>
-	<p>Nam sapien ante, varius in pulvinar vitae, rhoncus id massa. Donec varius ex in mauris ornare, eget euismod urna egestas. Etiam lacinia tempor ipsum, sodales porttitor justo. Aliquam dolor quam, semper in tortor eu, volutpat efficitur quam. Fusce nec fermentum nisl. Aenean erat diam, tempus aliquet erat.</p>
-	<p>Etiam iaculis nulla ipsum, et pharetra libero rhoncus ut. Phasellus rutrum cursus velit, eget condimentum nunc blandit vel. In at pulvinar lectus. Morbi diam ante, vulputate et imperdiet eget, fermentum non dolor. Ut eleifend sagittis tincidunt. Sed viverra commodo mi, ac rhoncus justo. Duis neque ligula, elementum ut enim vel, posuere finibus justo. Vivamus facilisis maximus nibh quis pulvinar. Quisque hendrerit in ipsum id tellus facilisis fermentum. Proin mauris dui, at vestibulum sit amet, auctor bibendum neque.</p>
+
+<img style="float: left; margin-left: 0px; margin-right: 20px; margin-bottom: 10px;" width="400px" src="../images/soundandlightplan.jpg">
+All sound in this performance is recorded and played live in the piece and is based on the miked movement of the dancer (two microphones on stage, no additional samples).
+
+Low frequencies play an important role in the physical experience of the audience piece. This is why a high quality sound system is absolutely essential.
+
+The Amplitude is suitable for small and mid scale venues with a minimum performance area of 5m x 10m with a sprung floor. The piece requires black dancefloor and black molleton for stage sides and stage back.
+
+**Running time:**  50 min.
+
+
+## Sound requirements:
+
+ - An optimized acoustic irradiation of the space
+ - A high quality sound system (prefered brands: d&b, L-Acoustics, Kling&Freitag).
+ - A subbass
+ - A separate voltage supply for the sound (230V, 50 Hz, 16A), power distributor and cables
+ - 4-channel Soundsystem (2 speakers in the front, 2 in back of the audience)
+ - Subwoofer (min. 1 for FOH as monopatch, min 1 for back as monopatch)
+ - 2 Monitors on stage (left and right behind the front speakers, directed to the stage, on the floor)
+ - small Mixing Desk (min. Master Out + 1 Subgroup + 2 Aux Send);  well connected with amplifiers and speakers Master>FrontSpeakers, Subgroup>BackSpeakers, 1. AuxSend>Subbass, 2.AuxSend>Monitors; if possible: placed at the musicians table
+ -XLR cables
+ - 1 CD Player
+ - Table at the left front side of the stage (for the musicians sound equipment; Laptop, ipad, controller). Cables to connect the audio interface proper to the speakers.
+ - small lamp, dimmable, with dark blue filter
+
+One condenser microphone (provided by the artist) will need to be hung from a rig approximately at the centre of the stage (high at approximately 2m).
+
+Powerline with ON/OFF switch, at or nearby the musicians desk downstage left, will be needed. The line needs to be extended: 1. to the back of the stage (with current distributers for 7 plugs, distributed across the whole width of the stage) and 2. to a separate room or "far away" from the stage.
+
+We will bring 7 radios (with PAT certification) for the show.
+
+Technical support for setting up is needed at least for the first 4 hrs of the set up.
+
+All changes to adjust the sound design to your theatre have to be discussed in advance.
+
+The original lighting design by Benjamin Schälike was re-lit in 2016 by Stephanie Bartle. It is available on Etc EOS showfile.
+
+**Contact Sound:** Mattef Kuhlmey, <a href="mailto:mattef@snafu.de">mattef@snafu.de</a>
+
+**Contact Light Designer:** Stephanie Bartle, <a href="mailto:stephaniebartle@live.co.uk">stephaniebartle@live.co.uk</a>
