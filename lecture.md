@@ -1,7 +1,7 @@
 ---
 layout: page
 section: 2
-title: Workshop and Lecture
+title: Workshops and Lecture
 description:
 excerpt: Alongside the touring of The Amplitude, Gabriele and Mattef offer a range of workshop formats as well as a lecture that draw upon the creation process of the piece as well as their skills as educators. The right mix of educational activity can be created around each performance. <br><br> Read more...
 image: lecture.jpg
