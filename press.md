@@ -4,13 +4,11 @@ section: 2
 title: Press Quotes & Audience Responses
 dexcription:  
 exerpt: “Gabriele is a magician of understated virtuosity”
-image: press.jpg
+image: press.png
 weight: 6
 ---
 “Gabriele is a magician of understated virtuosity” <br>
 *Sue MacLennan – Choreographer*
-
-**missing: general quote about Mattef**
 
 ## On Inventory / Räumung (2008-11)
 
@@ -23,6 +21,9 @@ weight: 6
 “Reuter is a charismatic performer with considerable charm and a real knack for communicating with an audience. She seduces us with quirkiness and a light touch without ever leaving any doubt about the conceptual rigour and the genuine interest driving her investigation into the complex relationship between dance and space”<br> *Martin Del Amo - realtimearts Australia*
 
 ## on The Amplitude 2015-16
+
+<a href="https://www.leftlion.co.uk/read/2016/october/gabriele-reuter-on-her-dance-show-the-amplitude-8629">Left Lion’s Interview with Gabriele Reuter on The Amplitude Oct 2016</a>
+
 ### Twitter
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/reuterbraut">@reuterbraut</a> <a href="https://twitter.com/NottmPlayhouse">@NottmPlayhouse</a> <a href="https://twitter.com/Dance_4">@Dance_4</a> Inspirational show, mesmerising visual and audio experience. Still in a trance.</p>&mdash; Paolo_Gerard (@Paolo_Gerard) <a href="https://twitter.com/Paolo_Gerard/status/574628476113842176">March 8, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

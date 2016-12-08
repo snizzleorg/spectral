@@ -3,17 +3,19 @@ layout: page
 section: 2
 title: Technical Requirements
 description:
-excerpt: Mattef Kuhlmey is not only the musician on stage during the performance, but also a highly competent sound technician, with over twenty years of experience in creating, performing and worldwide touring in theatres and venues for dance, theatre and music.
+excerpt: The Amplitude is suitable for small and mid scale venues with a minimum performance area of 5m x 10m with a sprung floor. All sound in this performance is recorded and played live in the piece and is based on the miked movement of the dancer.
 image: technical.jpg
-weight: 3
+weight: 4
 ---
-
-<img style="float: left; margin-left: 0px; margin-right: 20px; margin-bottom: 10px;" width="400px" src="../images/soundandlightplan.jpg">
+<a href="{{ site.url }}/assets/TheAmplitudeGenericLightingPlan.pdf"><img style="float: left; margin-left: 0px; margin-right: 20px; margin-bottom: 10px;" width="400px" src="../images/soundandlightplan.png"></a>
+The Amplitude is suitable for small and mid scale venues with a minimum performance area of 5m x 10m with a sprung floor.
 All sound in this performance is recorded and played live in the piece and is based on the miked movement of the dancer (two microphones on stage, no additional samples).
 
 Low frequencies play an important role in the physical experience of the audience piece. This is why a high quality sound system is absolutely essential.
 
-The Amplitude is suitable for small and mid scale venues with a minimum performance area of 5m x 10m with a sprung floor. The piece requires black dancefloor and black molleton for stage sides and stage back.
+Mattef Kuhlmey is not only the musician on stage during the performance, but also a highly competent sound technician, with over 20 years of experience in creating, performing and worldwide touring in theatres and venues for dance, theatre and music. He will oversee all sound related technical set up but needs to be supported throughout the set up and take down by an additional sound technician.
+
+The piece requires black dancefloor and black molleton for stage sides and stage back.
 
 **Running time:**  50 min.
 

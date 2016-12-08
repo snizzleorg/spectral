@@ -14,6 +14,11 @@ Alongside the touring of The Amplitude, Gabriele and Mattef offer a range of wor
 <img style="float: left; margin-left: 0px; margin-right: 20px; margin-bottom: 0px;" width="400px" src="../images/lecture1.jpg">
 Workshops can be tailored to suit all levels of experience, ages and interests. As part of a tour throughout the East Midlands in autumn 2016 they have taught lectures on the topic of acoustic waves in secondary schools, collaboration workshops between dance and music technology students in Higher Education, developed interactive sound installations for two Special Needs Schools and tailored performance projects in other educational contexts. All this, as well as technique class in contemporary dance, improvisation or Contact Improvisation are options to accompany touring activities. Please get in touch to discuss options in more detail.
 
+See Bill Newsinger’s Video Documentary of The Amplitude Installation Workshops at two SEN Schools in Leicestershire Oct 2016 as part of the Unlocking The World Through Art Sensory Atelier Project of Attenborough Arts Centre Leicester via the password protected vimeo link: <a href="https: vimeo.com/193176516">https: vimeo.com/193176516</a>
+(Password: amplitude).
+
+
+
 ## Lecture
 
 <img style="float: right; margin-left: 0px; margin-right: 20px; margin-bottom: 0px;" width="400px" src="../images/lecture2.jpg">Part of the educational activity around The Amplitude is a lecture performance held by Gabriele Reuter, which is developed to be performed in spaces with a simple technical set up: classrooms, common halls, lecture rooms, gallery spaces etc.  

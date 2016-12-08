@@ -3,11 +3,11 @@ layout: page
 section: 2
 title: Gabriele Reuter & Mattef Kuhlmey
 description:
-excerpt: Dance artist and urbanist Gabriele Reuter and sound artist Mattef Kuhlmey have been collaborating since 2014. In their collaborative work they are concerned with the connections between sound, movement, choreography and space.
+excerpt: Gabriele Reuter and Mattef Kuhlmey have been collaborating since 2014. In their collaborative work they are concerned with the connections between sound, movement, choreography and space.
 image: about.jpg
-weight: 2
+weight: 3
 ---
-Dance artist and urbanist Gabriele Reuter and sound artist Mattef Kuhlmey have been collaborating since 2014. In their collaborative work they are concerned with the connections between sound, movement, choreography and space.
+Gabriele Reuter and Mattef Kuhlmey have been collaborating since 2014. In their collaborative work they are concerned with the connections between sound, movement, choreography and space.
 
 ## Gabriele Reuter
 <img style="float: left; margin-left: 0px; margin-right: 20px; margin-bottom: 0px;" width="400px" src="../images/gabstar.jpg">
@@ -28,7 +28,7 @@ In 2014 Gabriele qualified as a Design Thinker (creative coach) at the HPI “d-
 <img style="float: right; margin-left: 20px; margin-right: 20 px; margin-bottom: 0px;" width="400px" src="../images/mattef.jpg">
 Mattef Kuhlmey was born 1968 in former East Berlin. Since 1999 he works as a Musician. His band ALP has released „el arte nunca muere“/ Fortschritt Musik, „silbern“/ Fortschritt Musik; various silent movie soundtracks i.a. „Battleship Potemkin“, „The cabinet of Dr.Caligari“, "Berlin - symphony of a great city" and conducted several tours through Germany, Poland, USA.
 
-He has worked as a composer for renowned choreographers in Germany, a.o. Hyoung Min Kim (Everything else, Gelbe Landschaften, Nach dem Ende kommt noch was), Jo Parkes (On beauty, On tradition), Gabriele Reuter (Hidden Spaces/Traces; The Amplitude); Nico and the Navigators (Die Stunde da wir zuviel voneinander wussten) and currently works with Deborah Hay on a commission for the Dance On Ensemble in Berlin. As a sound designer he has worked for Thalia Theater/ Hamburg; Salzburger Festspiele, Dorky Park/ Constanza Macras, Two Fish, Gisèle Vienne a.o.
+He has worked as a composer for renowned choreographers in Germany, a.o. Hyoung Min Kim (Everything else, Gelbe Landschaften, Nach dem Ende kommt noch was), Jo Parkes (On beauty, On tradition), Gabriele Reuter (Hidden Spaces/Traces; The Amplitude); Nico and the Navigators (Die Stunde da wir zuviel voneinander wussten) and currently works with Deborah Hay on a commission for the Dance On Ensemble in Berlin. As a sound designer and sound technician he has worked for Thalia Theater/ Hamburg; Salzburger Festspiele, Dorky Park/ Constanza Macras, Two Fish, Gisèle Vienne a.o.
 
 Mattef was author/ produced radio features for Deutschlandradio, rbb and worked as a music teacher for many years in the international project „Lanterna Futuri“.
 He owns the record label „Fortschritt Musik“.

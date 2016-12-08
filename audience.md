@@ -2,13 +2,13 @@
 layout: page
 section: 2
 title: Audience Experience
-description: 
+description:
 excerpt: The Amplitude aims to create resonance with its audiences. It is a piece that connects to dance and non-dance audiences, to electronic music experts and physics professors alike. Starting from the simple idea of the acoustic wave.
 image: audience.jpg
-weight: 4
+weight: 2
 
 ---
-At the heart of The Amplitude is the acoustic experience of the audience, of which a video recording can only give a very poor account. Below a summary of what has previously drawn audiences into the piece, including the audience interactive parts of the performance:
+At the heart of The Amplitude is the acoustic experience of the audience, of which a video recording can only give a very poor account. This summary of the audience experience of the piece, includes parts of the performance that interact directly with the audience:
 
 The piece begins in complete darkness, with several minutes of very low frequency sounds played to the audience. Every audience member will feel these sounds physically as vibrations throughout the body. Gabriele Reuter sharply interrupts this immersive setting with a danced lecture on acoustic waves. In her distinct style of performance, she connects closely and personally to dance and non-dance audiences alike. Reuter unfolds the close-knit relationship between movement and sound from the simple idea of the acoustic wave. In a mixture of movement and text, facts of physics paired with a humorous, poetic interpretation of music technology expert knowledge she lures the audience into understanding acoustics like they never did in physics class. This lecture sets the tone for the core parts of the piece to follow, in which Mattef and Gabriele build a soundscape together, created directly from the movement on stage. Conducted on a highly amplified stage, Gabriele’s movement is live recorded, re-mixed and sent through a series of effect chains to create an immersive and driving electronic sound. The movement material of The Amplitude is virtuosic, athletic and musical, but it serves the sole purpose of bringing the empty space of the stage to live, along with the imagination of the audience.
 
