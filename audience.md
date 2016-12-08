@@ -3,7 +3,7 @@ layout: page
 section: 2
 title: Audience Experience
 description:
-excerpt: The Amplitude aims to create resonance with its audiences. It is a piece that connects to dance and non-dance audiences, to electronic music experts and physics professors alike. Starting from the simple idea of the acoustic wave.
+excerpt: The Amplitude aims to create resonance with its audiences. It is a piece that connects to dance and non-dance audiences, to electronic music experts and physics professors alike. Starting from the simple idea of the acoustic wave. <br><br> Read more...
 image: audience.jpg
 weight: 2
 

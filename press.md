@@ -3,7 +3,7 @@ layout: page
 section: 2
 title: Press Quotes & Audience Responses
 dexcription:  
-exerpt: “Gabriele is a magician of understated virtuosity”
+excerpt: Read more...
 image: press.png
 weight: 6
 ---

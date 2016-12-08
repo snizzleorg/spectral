@@ -3,7 +3,7 @@ layout: page
 section: 2
 title: Technical Requirements
 description:
-excerpt: The Amplitude is suitable for small and mid scale venues with a minimum performance area of 5m x 10m with a sprung floor. All sound in this performance is recorded and played live in the piece and is based on the miked movement of the dancer.
+excerpt: The Amplitude is suitable for small and mid scale venues with a minimum performance area of 5m x 10m with a sprung floor. All sound in this performance is recorded and played live in the piece and is based on the miked movement of the dancer. <br><br> Read more...
 image: technical.jpg
 weight: 4
 ---

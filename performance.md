@@ -3,7 +3,7 @@ layout: page
 section: 2
 title: Performance
 description:
-excerpt: Choreographer Gabriele Reuter and composer Mattef Kuhlmey have joined forces to create a unique collaboration that offers both a highly engaging theatrical dance performance and a fully immersive sound experience...
+excerpt: Choreographer Gabriele Reuter and composer Mattef Kuhlmey have joined forces to create a unique collaboration that offers both a highly engaging theatrical dance performance and a fully immersive sound experience. <br><br> Read more...
 weight: 1
 image: performance.jpg
 ---

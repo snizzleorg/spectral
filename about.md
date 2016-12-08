@@ -3,7 +3,7 @@ layout: page
 section: 2
 title: Gabriele Reuter & Mattef Kuhlmey
 description:
-excerpt: Gabriele Reuter and Mattef Kuhlmey have been collaborating since 2014. In their collaborative work they are concerned with the connections between sound, movement, choreography and space.
+excerpt: Gabriele Reuter and Mattef Kuhlmey have been collaborating since 2014. In their collaborative work they are concerned with the connections between sound, movement, choreography and space. <br><br> Read more...
 image: about.jpg
 weight: 3
 ---
