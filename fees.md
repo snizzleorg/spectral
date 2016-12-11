@@ -11,4 +11,4 @@ icon: fa-gbp
 
 Performance fees depend on the number of shows programmed and the educational activities tailored around each venue visit.
 
-Please contact <a href="mailto:{{site.producer_email}}">{{ site.producer_contact }}</a> at Dance 4 to discuss options.
+Please contact <a href="mailto:{{site.producer_email}}">{{ site.producer_contact }}</a> at Dance4 to discuss options.
