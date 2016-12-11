@@ -47,6 +47,4 @@ All changes to adjust the sound design to your theatre have to be discussed in
 
 The original lighting design by Benjamin Schälike was re-lit in 2016 by Stephanie Bartle. It is available on Etc EOS showfile.
 
-**Contact Sound:** Mattef Kuhlmey, <a href="mailto:mattef@snafu.de">mattef@snafu.de</a>
-
-**Contact Light Designer:** Stephanie Bartle, <a href="mailto:stephaniebartle@live.co.uk">stephaniebartle@live.co.uk</a>
+Please contact <a href="mailto:{{site.producer_email}}">{{ site.producer_contact }}</a> for further technical information/questions.

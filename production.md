@@ -4,11 +4,11 @@ section: 3
 title: Production Support
 description:  
 excerpt:  
-weight: 2
+weight: 4
 icon: fa-life-ring
 ---
-Produced by Dance 4
+Produced by <a href="http://www.dance4.co.uk">Dance4</a>
 
 Supported using public funding by the National Lottery through Arts Council England
 
-Supported by Tanzfabrik Berlin
+Supported by <a href="http://www.tanzfabrik-berlin.de">Tanzfabrik Berlin</a>

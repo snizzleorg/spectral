@@ -13,4 +13,4 @@ icon: fa-users
 **Lighting Design:** Benjamin Schälike / Re-lit by Stephanie Bartle  
 **Costume:** Judith Adam  
 **Mentor:** Pete Shenton  
-**Graphics and Lecture Animation:** Sophie Jahnke
+**Graphic Design and Lecture Animation:** <a href="http://www.sophiejahnke.com">Sophie Jahnke</a>

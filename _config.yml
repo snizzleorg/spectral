@@ -2,12 +2,12 @@
 #
 
 # Site settings
-title: The Amplitude Tour Pack
+title: The Amplitude – Tour Information
 subtitle: A Sound and Movement Performance
 owner: Gabriele Reuter and Mattef Kuhlmey (GER/UK)
 description: |
   The Amplitude is a sound and movement performance <br>that premiered in October 2016
-  at Lakeside Arts Centre Nottingham.<br>
+  at Lakeside Arts Nottingham.<br>
   It is available for touring from August 2017
 banner: banner.jpg
 producer_institution: |
@@ -18,8 +18,8 @@ producer_institution: |
   NG3 2AR
 
   +44 (0) 115 924 2016
-producer_contact: Jim Hendley
-producer_email: jim@dance4.co.uk
+producer_contact: Stuart Allen
+producer_email: stuart@dance4.co.uk
 first_published: 2016 # if migrating another site, the year of your first publish
 email: post@gabrielereuter.de
 baseurl: "" # the subpath of your site, e.g. /blog
