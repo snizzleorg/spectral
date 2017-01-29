@@ -15,12 +15,11 @@ Alongside the touring of The Amplitude, Reuter and Kuhlmey offer a range of work
 Workshops can be tailored to suit all levels of experience, ages and interests. As part of a tour throughout the East Midlands in autumn 2016 they have taught lectures on the topic of acoustic waves in secondary schools, collaboration workshops between dance and music technology students in Higher Education, developed interactive sound installations for two Special Needs Schools and tailored performance projects in other educational contexts. All this, as well as technique class in contemporary dance, improvisation or Contact Improvisation are options to accompany touring activities.   
 Please get in touch to discuss options in more detail.
 
-Video artist Bill Newsinger shot this documentary of The Amplitude Installation Workshops at two SEN Schools in Leicestershire Oct 2016. The project was part of the 'Unlocking The World Through Art Sensory Atelier' project of Attenborough Arts Centre Leicester:
+Video artist Bill Newsinger shot this documentary of The Amplitude Installation Workshops at two SEN Schools in Leicestershire Oct 2016. The project was part of the 'Unlocking The World Through Art Sensory Atelier' of Attenborough Arts Centre Leicester:
 
 <div class="videoWrapper">
-  <iframe src="https://player.vimeo.com/video/193082190?autoplay=0&loop=0&title=0&byline=0&portrait=0&mute=1" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  <iframe src="https://player.vimeo.com/video/193176516?autoplay=0&loop=0&title=0&byline=0&portrait=0&mute=1" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
-
 <br><br>
 
 ## Lecture
