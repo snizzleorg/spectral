@@ -20,7 +20,9 @@ weight: 6
 
 “Reuter is a charismatic performer with considerable charm and a real knack for communicating with an audience. She seduces us with quirkiness and a light touch without ever leaving any doubt about the conceptual rigour and the genuine interest driving her investigation into the complex relationship between dance and space”<br> *Martin Del Amo - realtimearts Australia*
 
-## on The Amplitude 2015-16
+## on The Amplitude 2015-17
+
+<a href="https://www.culturised.co.uk/2017/04/physical-sound-gabriele-reuter-and-mattef-kuhlmeys-the-amplitude/">Alex Hackitt-Anwyls review on culterised.co.uk</a>
 
 <a href="https://www.leftlion.co.uk/read/2016/october/gabriele-reuter-on-her-dance-show-the-amplitude-8629">Left Lion’s Interview with Gabriele Reuter on The Amplitude Oct 2016</a>
 
