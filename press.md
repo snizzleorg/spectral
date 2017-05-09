@@ -22,7 +22,7 @@ weight: 6
 
 ## on The Amplitude 2015-17
 
-<a href="https://www.culturised.co.uk/2017/04/physical-sound-gabriele-reuter-and-mattef-kuhlmeys-the-amplitude/">Alex Hackitt-Anwyls review of the Amplitude at <a href="http://www.theplace.org.uk">The Place</a> Theatre London Mar 2017</a>
+<a href="https://www.culturised.co.uk/2017/04/physical-sound-gabriele-reuter-and-mattef-kuhlmeys-the-amplitude/">Alex Hackitt-Anwyls review of the Amplitude at The Place Theatre London Mar 2017</a>
 
 <a href="https://www.leftlion.co.uk/read/2016/october/gabriele-reuter-on-her-dance-show-the-amplitude-8629">Left Lion’s Interview with Gabriele Reuter on The Amplitude Oct 2016</a>
 
